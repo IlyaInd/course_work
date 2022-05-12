@@ -1,4 +1,6 @@
 *.pdf
-.idea/
 *.csv
 *.json
+.DS_Store
+.ipynb_checkpoints/
+.idea/
